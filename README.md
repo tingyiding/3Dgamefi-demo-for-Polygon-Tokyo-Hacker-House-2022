@@ -8,6 +8,8 @@ Polygon Tokyo Hacker House 2022 に参加するために作成された3D GameFi
 [![Watch Video](assets/UndefinedPage.png)](https://www.youtube.com/watch?v=ekYpRv584j4)
 
 
+# 3D GameFiの全体コンセプトとエコシステムの概要
+# Overview of the Overall Concept and Ecosystem of 3D GameFi
 ![Image](assets/PPTPage1.png "PPTPage1")
 
 ![Image](assets/PPTPage2.png "PPTPage2")
