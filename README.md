@@ -12,6 +12,11 @@ Polygon Tokyo Hacker House 2022 に参加するために作成された3D GameFi
 # Overview of the Overall Concept and Ecosystem of 3D GameFi
 ![Image](assets/PPTPage1.png "PPTPage1")
 
+# 01 Undefinedエコシステム
+・道具、土地、キャラクターのNFT化
+・アーティストから3Dモデルを直接導入可能
+・Undefined内でNFT 3Dモデルの取引が可能
+・NFT ⇔ Tokenのエコシステム 
 ![Image](assets/PPTPage2.png "PPTPage2")
 
 ![Image](assets/PPTPage3.png "PPTPage3")
