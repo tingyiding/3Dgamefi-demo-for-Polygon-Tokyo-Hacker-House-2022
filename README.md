@@ -3,7 +3,7 @@ Polygon Tokyo Hacker House 2022 に参加するために作成された3D GameFi
 
 # 下記の画像またはリンクをクリックすると、関連動画をご覧いただけます。
 # Click the image or link below to watch the related video.
-[3Dgamefi](https://www.youtube.com/watch?v=ekYpRv584j4)
+[3Dgamefi-Demo-Video](https://www.youtube.com/watch?v=ekYpRv584j4)
 
 [![Watch Video](assets/UndefinedPage.png)](https://www.youtube.com/watch?v=ekYpRv584j4)
 
