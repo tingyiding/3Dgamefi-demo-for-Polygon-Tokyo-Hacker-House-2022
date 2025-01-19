@@ -24,6 +24,10 @@ Polygon Tokyo Hacker House 2022 に参加するために作成された3D GameFi
 
 ![Image](assets/PPTPage2.png "PPTPage2")
 
+# 02 VRゴーグルを使ってプレーすることができる
 ![Image](assets/PPTPage3.png "PPTPage3")
 
+# 03 Pythonを活用してSNSトレンドをUndefinedと同期
+★2022年には、Pythonのウェブスクレイピングを用いてSNSデータのリアルタイム同期を検討していました。しかし、2025年、AIが大爆発する元年となった現在では、AIを活用してSNSデータのリアルタイム同期と最適化が可能になりました。
+★In 2022, real-time synchronization of SNS data was considered using Python web scraping. However, in 2025, the first year of the AI boom, AI can now be integrated to achieve real-time synchronization and optimization of SNS data.
 ![Image](assets/PPTPage4.png "PPTPage4")
