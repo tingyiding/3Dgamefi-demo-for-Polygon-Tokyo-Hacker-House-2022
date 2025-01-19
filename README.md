@@ -17,6 +17,11 @@ Polygon Tokyo Hacker House 2022 に参加するために作成された3D GameFi
 ・アーティストから3Dモデルを直接導入可能
 ・Undefined内でNFT 3Dモデルの取引が可能
 ・NFT ⇔ Tokenのエコシステム 
+・NFT Conversion of Items, Land, and Characters
+・Direct Integration of 3D Models from Artists
+・Trading of NFT 3D Models within Undefined
+・NFT ⇔ Token Ecosystem
+
 ![Image](assets/PPTPage2.png "PPTPage2")
 
 ![Image](assets/PPTPage3.png "PPTPage3")
